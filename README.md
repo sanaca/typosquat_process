@@ -3,8 +3,9 @@
 it is a tool for creating process names from a legitimate process name with Bitsquatting, homoglyph,repetition,transposition,replacement,omission, insertion
 
 examples:
+---
+root@mimosa# python typosquat_process.py iexplorer.exe
 
-python typosquat_process.py iexplorer.exe
 Bitsquatting,hexplorer.exe
 Bitsquatting,kexplorer.exe
 Bitsquatting,mexplorer.exe
@@ -72,7 +73,7 @@ Insertion,iexplorewr.exe
 Insertion,iexplor3er.exe
 Insertion,iexplore3r.exe
 
-python typosquat_process.py twain.dll
+root@mimosa# python typosquat_process.py twain.dll
 
 
 Bitsquatting,uwain.dll
@@ -166,3 +167,4 @@ Insertion,twauin.dll
 Insertion,twaiun.dll
 Insertion,twa8in.dll
 Insertion,twai8n.dll
+---
