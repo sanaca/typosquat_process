@@ -5,7 +5,7 @@ it is a tool for creating process names from a legitimate process name with Bits
 examples:
 ---
 root@mimosa# python typosquat_process.py iexplorer.exe
-
+----
 Bitsquatting,hexplorer.exe
 Bitsquatting,kexplorer.exe
 Bitsquatting,mexplorer.exe
@@ -75,7 +75,7 @@ Insertion,iexplore3r.exe
 
 root@mimosa# python typosquat_process.py twain.dll
 
-
+----
 Bitsquatting,uwain.dll
 Bitsquatting,vwain.dll
 Bitsquatting,pwain.dll
