@@ -1,4 +1,4 @@
-# typosquatting_process
+# typosquat_process
 
 it is a tool for creating process names from a legitimate process name with Bitsquatting, homoglyph,repetition,transposition,replacement,omission, insertion
 
